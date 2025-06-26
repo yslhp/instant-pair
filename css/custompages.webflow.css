@@ -1,6 +1,8 @@
+
+
 @font-face {
   font-family: "Rbno 31";
-  src: url('../fonts/RBNo31-BoldItalic.ttf') format("truetype"), url('../fonts/RBNo31-ExtraboldItalic.ttf') format("truetype");
+  src: url('https://yslhp.github.io/instant-pair/fonts//RBNo31-BoldItalic.ttf') format("truetype"), url('https://yslhp.github.io/instant-pair/fonts//RBNo31-ExtraboldItalic.ttf') format("truetype");
   font-weight: 700;
   font-style: italic;
   font-display: swap;
@@ -8,7 +10,7 @@
 
 @font-face {
   font-family: "Rbno 31";
-  src: url('../fonts/RBNo31-BlackItalic.ttf') format("truetype");
+  src: url('https://yslhp.github.io/instant-pair/fonts//RBNo31-BlackItalic.ttf') format("truetype");
   font-weight: 900;
   font-style: italic;
   font-display: swap;
@@ -16,7 +18,7 @@
 
 @font-face {
   font-family: "Rbno 31";
-  src: url('../fonts/RBNo31-UltraItalic.ttf') format("truetype"), url('../fonts/RBNo31-BookItalic.ttf') format("truetype");
+  src: url('https://yslhp.github.io/instant-pair/fonts//RBNo31-UltraItalic.ttf') format("truetype"), url('https://yslhp.github.io/instant-pair/fonts//RBNo31-BookItalic.ttf') format("truetype");
   font-weight: 400;
   font-style: italic;
   font-display: swap;
@@ -24,7 +26,7 @@
 
 @font-face {
   font-family: "Rbno 31";
-  src: url('../fonts/RBNo31-Thin.ttf') format("truetype");
+  src: url('https://yslhp.github.io/instant-pair/fonts//RBNo31-Thin.ttf') format("truetype");
   font-weight: 100;
   font-style: normal;
   font-display: swap;
@@ -32,7 +34,7 @@
 
 @font-face {
   font-family: "Rbno 31";
-  src: url('../fonts/RBNo31-ThinItalic.ttf') format("truetype");
+  src: url('https://yslhp.github.io/instant-pair/fonts//RBNo31-ThinItalic.ttf') format("truetype");
   font-weight: 100;
   font-style: italic;
   font-display: swap;
@@ -40,7 +42,7 @@
 
 @font-face {
   font-family: "Rbno 31";
-  src: url('../fonts/RBNo31-Bold.ttf') format("truetype"), url('../fonts/RBNo31-Extrabold.ttf') format("truetype");
+  src: url('https://yslhp.github.io/instant-pair/fonts//RBNo31-Bold.ttf') format("truetype"), url('https://yslhp.github.io/instant-pair/fonts//RBNo31-Extrabold.ttf') format("truetype");
   font-weight: 700;
   font-style: normal;
   font-display: swap;
@@ -48,7 +50,7 @@
 
 @font-face {
   font-family: "Rbno 31 31";
-  src: url('../fonts/RBNo31-MediumItalicRBNo31-Mediumvfb.ttf') format("truetype");
+  src: url('https://yslhp.github.io/instant-pair/fonts//RBNo31-MediumItalicRBNo31-Mediumvfb.ttf') format("truetype");
   font-weight: 500;
   font-style: italic;
   font-display: swap;
@@ -56,7 +58,7 @@
 
 @font-face {
   font-family: "Rbno 31";
-  src: url('../fonts/RBNo31-Black.ttf') format("truetype");
+  src: url('https://yslhp.github.io/instant-pair/fonts//RBNo31-Black.ttf') format("truetype");
   font-weight: 900;
   font-style: normal;
   font-display: swap;
@@ -64,7 +66,7 @@
 
 @font-face {
   font-family: "Rbno 31 Ultra";
-  src: url('../fonts/RBNo31-Ultra.ttf') format("truetype");
+  src: url('https://yslhp.github.io/instant-pair/fonts//RBNo31-Ultra.ttf') format("truetype");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
@@ -72,7 +74,7 @@
 
 @font-face {
   font-family: "Rbno 31";
-  src: url('../fonts/RBNo31-ExtraLightItalic.ttf') format("truetype");
+  src: url('https://yslhp.github.io/instant-pair/fonts//RBNo31-ExtraLightItalic.ttf') format("truetype");
   font-weight: 200;
   font-style: italic;
   font-display: swap;
@@ -80,7 +82,7 @@
 
 @font-face {
   font-family: "Rbno 31";
-  src: url('../fonts/RBNo31-Medium.ttf') format("truetype");
+  src: url('https://yslhp.github.io/instant-pair/fonts//RBNo31-Medium.ttf') format("truetype");
   font-weight: 500;
   font-style: normal;
   font-display: swap;
@@ -88,7 +90,7 @@
 
 @font-face {
   font-family: "Rbno 31";
-  src: url('../fonts/RBNo31-ExtraLight.ttf') format("truetype");
+  src: url('https://yslhp.github.io/instant-pair/fonts//RBNo31-ExtraLight.ttf') format("truetype");
   font-weight: 200;
   font-style: normal;
   font-display: swap;
@@ -96,7 +98,7 @@
 
 @font-face {
   font-family: "Rbno 31";
-  src: url('../fonts/RBNo31-LightItalic.ttf') format("truetype");
+  src: url('https://yslhp.github.io/instant-pair/fonts//RBNo31-LightItalic.ttf') format("truetype");
   font-weight: 300;
   font-style: italic;
   font-display: swap;
@@ -104,7 +106,7 @@
 
 @font-face {
   font-family: "Rbno 31";
-  src: url('../fonts/RBNo31-Light.ttf') format("truetype");
+  src: url('https://yslhp.github.io/instant-pair/fonts//RBNo31-Light.ttf') format("truetype");
   font-weight: 300;
   font-style: normal;
   font-display: swap;
@@ -112,7 +114,7 @@
 
 @font-face {
   font-family: "Rbno 31 Book";
-  src: url('../fonts/RBNo31-Book.ttf') format("truetype");
+  src: url('https://yslhp.github.io/instant-pair/fonts//RBNo31-Book.ttf') format("truetype");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
@@ -120,7 +122,7 @@
 
 @font-face {
   font-family: Proxima Nova;
-  src: url('../fonts/Proxima-Nova-Black.otf') format("opentype");
+  src: url('https://yslhp.github.io/instant-pair/fonts//Proxima-Nova-Black.otf') format("opentype");
   font-weight: 900;
   font-style: normal;
   font-display: swap;
@@ -128,7 +130,7 @@
 
 @font-face {
   font-family: Proxima Nova Alt;
-  src: url('../fonts/Proxima-Nova-Alt-Regular.otf') format("opentype");
+  src: url('https://yslhp.github.io/instant-pair/fonts//Proxima-Nova-Alt-Regular.otf') format("opentype");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
@@ -136,7 +138,7 @@
 
 @font-face {
   font-family: Proxima Nova Alt;
-  src: url('../fonts/Proxima-Nova-Alt-Semibold.otf') format("opentype");
+  src: url('https://yslhp.github.io/instant-pair/fonts//Proxima-Nova-Alt-Semibold.otf') format("opentype");
   font-weight: 600;
   font-style: normal;
   font-display: swap;
@@ -144,7 +146,7 @@
 
 @font-face {
   font-family: Proxima Nova Alt;
-  src: url('../fonts/Proxima-Nova-Alt-Thin-Italic.otf') format("opentype");
+  src: url('https://yslhp.github.io/instant-pair/fonts//Proxima-Nova-Alt-Thin-Italic.otf') format("opentype");
   font-weight: 100;
   font-style: italic;
   font-display: swap;
@@ -152,7 +154,7 @@
 
 @font-face {
   font-family: Proxima Nova Alt;
-  src: url('../fonts/Proxima-Nova-Alt-Extrabold-Italic.otf') format("opentype");
+  src: url('https://yslhp.github.io/instant-pair/fonts//Proxima-Nova-Alt-Extrabold-Italic.otf') format("opentype");
   font-weight: 700;
   font-style: italic;
   font-display: swap;
@@ -160,7 +162,7 @@
 
 @font-face {
   font-family: Proxima Nova;
-  src: url('../fonts/Proxima-Nova-Black-Italic.otf') format("opentype");
+  src: url('https://yslhp.github.io/instant-pair/fonts//Proxima-Nova-Black-Italic.otf') format("opentype");
   font-weight: 900;
   font-style: italic;
   font-display: swap;
@@ -168,7 +170,7 @@
 
 @font-face {
   font-family: Proxima Nova Alt;
-  src: url('../fonts/Proxima-Nova-Alt-Extrabold.otf') format("opentype");
+  src: url('https://yslhp.github.io/instant-pair/fonts//Proxima-Nova-Alt-Extrabold.otf') format("opentype");
   font-weight: 700;
   font-style: normal;
   font-display: swap;
@@ -176,7 +178,7 @@
 
 @font-face {
   font-family: Proxima Nova Alt;
-  src: url('../fonts/Proxima-Nova-Alt-Regular-Italic.otf') format("opentype");
+  src: url('https://yslhp.github.io/instant-pair/fonts//Proxima-Nova-Alt-Regular-Italic.otf') format("opentype");
   font-weight: 400;
   font-style: italic;
   font-display: swap;
@@ -184,7 +186,7 @@
 
 @font-face {
   font-family: Proxima Nova Alt;
-  src: url('../fonts/Proxima-Nova-Alt-Thin.otf') format("opentype");
+  src: url('https://yslhp.github.io/instant-pair/fonts//Proxima-Nova-Alt-Thin.otf') format("opentype");
   font-weight: 100;
   font-style: normal;
   font-display: swap;
@@ -192,7 +194,7 @@
 
 @font-face {
   font-family: Proxima Nova Alt;
-  src: url('../fonts/Proxima-Nova-Alt-Semibold-Italic.otf') format("opentype");
+  src: url('https://yslhp.github.io/instant-pair/fonts//Proxima-Nova-Alt-Semibold-Italic.otf') format("opentype");
   font-weight: 600;
   font-style: italic;
   font-display: swap;
@@ -200,7 +202,7 @@
 
 @font-face {
   font-family: Proxima Nova;
-  src: url('../fonts/Proxima-Nova-Bold.otf') format("opentype");
+  src: url('https://yslhp.github.io/instant-pair/fonts//Proxima-Nova-Bold.otf') format("opentype");
   font-weight: 700;
   font-style: normal;
   font-display: swap;
@@ -208,7 +210,7 @@
 
 @font-face {
   font-family: Proxima Nova Alt;
-  src: url('../fonts/Proxima-Nova-Alt-Light.otf') format("opentype");
+  src: url('https://yslhp.github.io/instant-pair/fonts//Proxima-Nova-Alt-Light.otf') format("opentype");
   font-weight: 300;
   font-style: normal;
   font-display: swap;
@@ -216,7 +218,7 @@
 
 @font-face {
   font-family: Proxima Nova Alt;
-  src: url('../fonts/Proxima-Nova-Alt-Light-Italic.otf') format("opentype");
+  src: url('https://yslhp.github.io/instant-pair/fonts//Proxima-Nova-Alt-Light-Italic.otf') format("opentype");
   font-weight: 300;
   font-style: italic;
   font-display: swap;
@@ -224,10 +226,20 @@
 
 @font-face {
   font-family: Proxima Nova;
-  src: url('../fonts/Proxima-Nova-Bold-Italic.otf') format("opentype");
+  src: url('https://yslhp.github.io/instant-pair/fonts//Proxima-Nova-Bold-Italic.otf') format("opentype");
   font-weight: 700;
   font-style: italic;
   font-display: swap;
+}
+
+:root {
+  --_headlinerbmedium---proximafamily: "Proxima Nova Alt", Arial, sans-serif;
+  --font-family-3: "Rbno 31", Impact, sans-serif;
+  --_headlinerbmedium---rbh1: "Rbno 31 Book", Impact, sans-serif;
+  --font-family: "Rbno 31 Book", Impact, sans-serif;
+  --font-family-2: "Rbno 31 Ultra", Impact, sans-serif;
+  --_headlinerbmedium---hyperxred: #c8202f;
+  --_headlinerbmedium---black: #000;
 }
 
 :root {
@@ -386,8 +398,8 @@
 }
 
 .headlinequarter {
-  font-size: 1.3rem;
-  line-height: 1.4rem;
+  font-size: 1.9rem;
+  line-height: 2rem;
 }
 
 @media screen and (max-width: 991px) {
@@ -446,7 +458,7 @@
   }
 
   .headlinequarter {
-    font-size: 1rem;
+    font-size: 1.7rem;
   }
 }
 
@@ -454,205 +466,6 @@
   place-self: center;
 }
 
-
-@font-face {
-  font-family: 'Rbno 31';
-  src: url('../fonts/RBNo31-BoldItalic.ttf') format('truetype'), url('../fonts/RBNo31-ExtraboldItalic.ttf') format('truetype');
-  font-weight: 700;
-  font-style: italic;
-  font-display: swap;
-}
-@font-face {
-  font-family: 'Rbno 31';
-  src: url('../fonts/RBNo31-BlackItalic.ttf') format('truetype');
-  font-weight: 900;
-  font-style: italic;
-  font-display: swap;
-}
-@font-face {
-  font-family: 'Rbno 31';
-  src: url('../fonts/RBNo31-UltraItalic.ttf') format('truetype'), url('../fonts/RBNo31-BookItalic.ttf') format('truetype');
-  font-weight: 400;
-  font-style: italic;
-  font-display: swap;
-}
-@font-face {
-  font-family: 'Rbno 31';
-  src: url('../fonts/RBNo31-Thin.ttf') format('truetype');
-  font-weight: 100;
-  font-style: normal;
-  font-display: swap;
-}
-@font-face {
-  font-family: 'Rbno 31';
-  src: url('../fonts/RBNo31-ThinItalic.ttf') format('truetype');
-  font-weight: 100;
-  font-style: italic;
-  font-display: swap;
-}
-@font-face {
-  font-family: 'Rbno 31';
-  src: url('../fonts/RBNo31-Bold.ttf') format('truetype'), url('../fonts/RBNo31-Extrabold.ttf') format('truetype');
-  font-weight: 700;
-  font-style: normal;
-  font-display: swap;
-}
-@font-face {
-  font-family: 'Rbno 31 31';
-  src: url('../fonts/RBNo31-MediumItalicRBNo31-Mediumvfb.ttf') format('truetype');
-  font-weight: 500;
-  font-style: italic;
-  font-display: swap;
-}
-@font-face {
-  font-family: 'Rbno 31';
-  src: url('../fonts/RBNo31-Black.ttf') format('truetype');
-  font-weight: 900;
-  font-style: normal;
-  font-display: swap;
-}
-@font-face {
-  font-family: 'Rbno 31 Ultra';
-  src: url('../fonts/RBNo31-Ultra.ttf') format('truetype');
-  font-weight: 400;
-  font-style: normal;
-  font-display: swap;
-}
-@font-face {
-  font-family: 'Rbno 31';
-  src: url('../fonts/RBNo31-ExtraLightItalic.ttf') format('truetype');
-  font-weight: 200;
-  font-style: italic;
-  font-display: swap;
-}
-@font-face {
-  font-family: 'Rbno 31';
-  src: url('../fonts/RBNo31-Medium.ttf') format('truetype');
-  font-weight: 500;
-  font-style: normal;
-  font-display: swap;
-}
-@font-face {
-  font-family: 'Rbno 31';
-  src: url('../fonts/RBNo31-ExtraLight.ttf') format('truetype');
-  font-weight: 200;
-  font-style: normal;
-  font-display: swap;
-}
-@font-face {
-  font-family: 'Rbno 31';
-  src: url('../fonts/RBNo31-LightItalic.ttf') format('truetype');
-  font-weight: 300;
-  font-style: italic;
-  font-display: swap;
-}
-@font-face {
-  font-family: 'Rbno 31';
-  src: url('../fonts/RBNo31-Light.ttf') format('truetype');
-  font-weight: 300;
-  font-style: normal;
-  font-display: swap;
-}
-@font-face {
-  font-family: 'Rbno 31 Book';
-  src: url('../fonts/RBNo31-Book.ttf') format('truetype');
-  font-weight: 400;
-  font-style: normal;
-  font-display: swap;
-}
-@font-face {
-  font-family: 'Proxima Nova';
-  src: url('../fonts/Proxima-Nova-Black.otf') format('opentype');
-  font-weight: 900;
-  font-style: normal;
-  font-display: swap;
-}
-@font-face {
-  font-family: 'Proxima Nova Alt';
-  src: url('../fonts/Proxima-Nova-Alt-Regular.otf') format('opentype');
-  font-weight: 400;
-  font-style: normal;
-  font-display: swap;
-}
-@font-face {
-  font-family: 'Proxima Nova Alt';
-  src: url('../fonts/Proxima-Nova-Alt-Semibold.otf') format('opentype');
-  font-weight: 600;
-  font-style: normal;
-  font-display: swap;
-}
-@font-face {
-  font-family: 'Proxima Nova Alt';
-  src: url('../fonts/Proxima-Nova-Alt-Thin-Italic.otf') format('opentype');
-  font-weight: 100;
-  font-style: italic;
-  font-display: swap;
-}
-@font-face {
-  font-family: 'Proxima Nova Alt';
-  src: url('../fonts/Proxima-Nova-Alt-Extrabold-Italic.otf') format('opentype');
-  font-weight: 700;
-  font-style: italic;
-  font-display: swap;
-}
-@font-face {
-  font-family: 'Proxima Nova';
-  src: url('../fonts/Proxima-Nova-Black-Italic.otf') format('opentype');
-  font-weight: 900;
-  font-style: italic;
-  font-display: swap;
-}
-@font-face {
-  font-family: 'Proxima Nova Alt';
-  src: url('../fonts/Proxima-Nova-Alt-Extrabold.otf') format('opentype');
-  font-weight: 700;
-  font-style: normal;
-  font-display: swap;
-}
-@font-face {
-  font-family: 'Proxima Nova Alt';
-  src: url('../fonts/Proxima-Nova-Alt-Regular-Italic.otf') format('opentype');
-  font-weight: 400;
-  font-style: italic;
-  font-display: swap;
-}
-@font-face {
-  font-family: 'Proxima Nova Alt';
-  src: url('../fonts/Proxima-Nova-Alt-Thin.otf') format('opentype');
-  font-weight: 100;
-  font-style: normal;
-  font-display: swap;
-}
-@font-face {
-  font-family: 'Proxima Nova Alt';
-  src: url('../fonts/Proxima-Nova-Alt-Semibold-Italic.otf') format('opentype');
-  font-weight: 600;
-  font-style: italic;
-  font-display: swap;
-}
-@font-face {
-  font-family: 'Proxima Nova';
-  src: url('../fonts/Proxima-Nova-Bold.otf') format('opentype');
-  font-weight: 700;
-  font-style: normal;
-  font-display: swap;
-}
-@font-face {
-  font-family: 'Proxima Nova Alt';
-  src: url('../fonts/Proxima-Nova-Alt-Light.otf') format('opentype');
-  font-weight: 300;
-  font-style: normal;
-  font-display: swap;
-}
-@font-face {
-  font-family: 'Proxima Nova Alt';
-  src: url('../fonts/Proxima-Nova-Alt-Light-Italic.otf') format('opentype');
-  font-weight: 300;
-  font-style: italic;
-  font-display: swap;
-}
-@font-face {
-  font-family: 'Proxima Nova';
   src: url('../fonts/Proxima-Nova-Bold-Italic.otf') format('opentype');
   font-weight: 700;
   font-style: italic;
