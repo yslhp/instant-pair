@@ -294,7 +294,7 @@
   font-family: var(--_headlinerbmedium---proximafamily);
   text-align: center;
   max-width: 800px;
-  font-size: 1rem;
+  font-size: 2rem;
   font-weight: 600;
 }
 
@@ -356,8 +356,8 @@
 
 .proximatext {
   font-family: var(--_headlinerbmedium---proximafamily);
-  font-size: 1rem;
-  line-height: 1.3rem;
+  font-size: 2rem;
+  line-height: 2.1rem;
 }
 
 ._4-grid {
