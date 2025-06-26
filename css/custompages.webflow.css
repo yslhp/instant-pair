@@ -233,7 +233,6 @@
 }
 
 
-
 :root {
   --_headlinerbmedium---proximafamily: "Proxima Nova Alt", Arial, sans-serif;
   --font-family-3: "Rbno 31", Impact, sans-serif;
@@ -278,7 +277,7 @@
   margin-right: auto;
   font-family: "Rbno 31", Impact, sans-serif;
   font-size: 3rem;
-  line-height: 150%;
+  line-height: 105%;
   position: static;
 }
 
@@ -291,9 +290,14 @@
 }
 
 .instantpair3 {
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+  max-width: 1200px;
   margin: 5rem auto 30px;
   padding-left: 2%;
   padding-right: 2%;
+  display: flex;
 }
 
 .instanthalfwrap {
@@ -359,7 +363,10 @@
 .grid {
   grid-template-rows: auto;
   grid-template-columns: 1fr 1fr 1fr 1fr;
-  max-width: 1200px;
+  width: 100%;
+  min-width: 100%;
+  max-width: none;
+  margin-top: 41px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -389,12 +396,35 @@
 }
 
 .grid-2 {
+  max-width: 1200px;
   margin-bottom: 95px;
 }
 
-.headlinequarter, .italic-text {
+.headlinequarter {
   font-size: 2rem;
   line-height: 2.1rem;
+}
+
+.quartertypewhite {
+  justify-content: center;
+  align-items: center;
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+}
+
+.italic-text {
+  font-size: 2rem;
+  line-height: 2.1rem;
+}
+
+.centergrid {
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+  max-width: 1200px;
+  display: flex;
 }
 
 @media screen and (max-width: 991px) {
@@ -472,7 +502,8 @@
   }
 }
 
-#w-node-_65d183e4-d0f8-1962-0cfd-379f1c97f415-f72b4e99, #w-node-_2a37da19-88ce-2ccd-b07c-58cd4cc75168-f72b4e99, #w-node-_674d624a-1310-bf5a-4a88-f86757c028ff-f72b4e99, #w-node-ca3e6673-b715-cc5b-e325-ebfc953af8d8-f72b4e99 {
+#w-node-fd419496-b03b-c122-6204-297f96d2329b-f72b4e99, #w-node-fd419496-b03b-c122-6204-297f96d232a1-f72b4e99, #w-node-fd419496-b03b-c122-6204-297f96d232a7-f72b4e99, #w-node-fd419496-b03b-c122-6204-297f96d232ad-f72b4e99 {
   place-self: center;
 }
+
 
