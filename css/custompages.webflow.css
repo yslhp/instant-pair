@@ -306,6 +306,7 @@
 
 .instanthalfwrap {
   justify-content: center;
+  max-width: 1200px;
   align-items: center;
   max-width: 1200px;
   margin-left: auto;
@@ -341,6 +342,7 @@
 .halfblockflexv {
   flex-flow: column;
   justify-content: center;
+  
   align-items: center;
   display: flex;
 }
