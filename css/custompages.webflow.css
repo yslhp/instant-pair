@@ -464,7 +464,7 @@
 .hyperxbutton:hover {
  
   pointer-events: auto;
-  color: black !important;
+ color:#c8202f;
 }
 
 ._00buttonwrap {
