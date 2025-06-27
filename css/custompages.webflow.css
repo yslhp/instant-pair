@@ -513,20 +513,20 @@
 .absolutewrap {
   max-width: 40rem;
   position: absolute;
-  inset: auto auto -3% -20%;
+  inset: auto auto -3% -12%;
 }
 
 .absolutewrap.right {
   max-width: 40rem;
-  inset: auto -11% 0% auto;
+  inset: auto -5% 0% auto;
 }
 
 .instantoverlay {
-  max-width: 500px;
+  max-width: 33rem;
 }
 
 .instantoverlay.small {
-  max-width: 450px;
+  max-width: 29rem;
 }
 
 .instantmain {
