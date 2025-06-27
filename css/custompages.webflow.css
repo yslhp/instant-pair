@@ -286,7 +286,7 @@
 .instantheadercopy {
   font-family: var(--_headlinerbmedium---proximafamily);
   text-align: center;
-  max-width: none;
+  max-width: 950px;
   font-size: 1rem;
   font-weight: 600;
 }
