@@ -265,7 +265,6 @@
 .intantpair2 {
   flex-flow: column;
   justify-content: center;
-  max-width: 950px;
   align-items: center;
   margin-left: auto;
   margin-right: auto;
@@ -319,8 +318,8 @@
   width: 50%;
   margin-left: auto;
   margin-right: auto;
-  padding-left: 5%;
-  padding-right: 5%;
+  padding-left: 0%;
+  padding-right: 0%;
   position: relative;
 }
 
@@ -367,6 +366,10 @@
 .texthalf {
   width: 100%;
   max-width: 50rem;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 2%;
+  padding-right: 2%;
 }
 
 .texthalf.right {
@@ -374,6 +377,8 @@
   flex-flow: column;
   justify-content: center;
   align-items: flex-end;
+  padding-left: 6%;
+  padding-right: 6%;
   display: flex;
 }
 
