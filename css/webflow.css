@@ -87,7 +87,7 @@ html.w-mod-touch * {
 .w-button {
   display: inline-block;
   padding: 9px 15px;
-  background-color: #3898EC;
+  background-color: #c8202f;
   color: white;
   border: 0;
   line-height: inherit;
@@ -342,7 +342,7 @@ label {
 }
 .w-input:focus,
 .w-select:focus {
-  border-color: #3898EC;
+  border-color: #c8202f;
   outline: 0;
 }
 .w-input[disabled],
