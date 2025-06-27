@@ -256,8 +256,8 @@
   max-width: none;
   margin-left: auto;
   margin-right: auto;
-  padding-left: 2%;
-  padding-right: 2%;
+  padding-left: 0%;
+  padding-right: 0%;
   display: flex;
   position: relative;
 }
@@ -286,7 +286,7 @@
 .instantheadercopy {
   font-family: var(--_headlinerbmedium---proximafamily);
   text-align: center;
-  max-width: 950px;
+  max-width: none;
   font-size: 1rem;
   font-weight: 600;
 }
@@ -526,10 +526,19 @@
 }
 
 .instantmain {
-  max-width: 2500px;
+  max-width: none;
   margin-left: auto;
   margin-right: auto;
   overflow: hidden;
+}
+
+.instantgroup1 {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.instantgroup1wrap {
+  position: relative;
 }
 
 @media screen and (max-width: 991px) {
