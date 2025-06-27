@@ -265,6 +265,7 @@
 .intantpair2 {
   flex-flow: column;
   justify-content: center;
+  max-width: 950px;
   align-items: center;
   margin-left: auto;
   margin-right: auto;
