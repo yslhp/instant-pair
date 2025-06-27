@@ -462,9 +462,9 @@
 }
 
 .hyperxbutton:hover {
-  background-color: var(--_headlinerbmedium---hyperxred);
+ 
   pointer-events: auto;
-  color: white !important;
+  color: black !important;
 }
 
 ._00buttonwrap {
