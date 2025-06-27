@@ -323,8 +323,12 @@
   position: relative;
 }
 
+.divstretch.right {
+  margin-left: 71px;
+}
+
 .divstretch.left {
-  margin-right: 100px;
+  margin-right: 0;
 }
 
 .image {
@@ -366,8 +370,8 @@
 .texthalf {
   width: 100%;
   max-width: 50rem;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: 2%;
+  margin-right: 2%;
   padding-left: 2%;
   padding-right: 2%;
 }
@@ -380,6 +384,10 @@
   padding-left: 6%;
   padding-right: 6%;
   display: flex;
+}
+
+.texthalf.left {
+  margin-left: 71px;
 }
 
 .proximatext {
@@ -503,13 +511,14 @@
 }
 
 .absolutewrap {
-  max-width: 500px;
+  max-width: 40rem;
   position: absolute;
   inset: auto auto -3% -20%;
 }
 
 .absolutewrap.right {
-  inset: auto -18% 0% auto;
+  max-width: 40rem;
+  inset: auto -11% 0% auto;
 }
 
 .instantoverlay {
