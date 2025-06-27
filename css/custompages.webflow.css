@@ -521,12 +521,8 @@
   inset: auto -5% 0% auto;
 }
 
-.instantoverlay {
-  max-width: 33rem;
-}
-
-.instantoverlay.small {
-  max-width: 29rem;
+.instantoverlay, .instantoverlay.small {
+  max-width: 40rem;
 }
 
 .instantmain {
