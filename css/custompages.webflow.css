@@ -233,10 +233,10 @@
 :root {
   --_headlinerbmedium---proximafamily: "Proxima Nova Alt", Arial, sans-serif;
   --font-family-3: "Rbno 31", Impact, sans-serif;
+  --_headlinerbmedium---hyperxred: #c8202f;
   --_headlinerbmedium---rbh1: "Rbno 31 Book", Impact, sans-serif;
   --font-family: "Rbno 31 Book", Impact, sans-serif;
   --font-family-2: "Rbno 31 Ultra", Impact, sans-serif;
-  --_headlinerbmedium---hyperxred: #c8202f;
   --_headlinerbmedium---black: #000;
 }
 
@@ -281,7 +281,7 @@
 .instantheadercopy {
   font-family: var(--_headlinerbmedium---proximafamily);
   text-align: center;
-  max-width: 800px;
+  max-width: 1000px;
   font-size: 1rem;
   font-weight: 600;
 }
@@ -311,6 +311,10 @@
   position: relative;
 }
 
+.divstretch.left {
+  margin-right: 77px;
+}
+
 .image {
   aspect-ratio: 1;
   object-fit: cover;
@@ -325,16 +329,18 @@
 .instanth2 {
   font-family: var(--font-family-3);
   flex: 1;
+  width: 100%;
   max-width: 25rem;
-  font-size: 2rem;
+  font-size: 2.8rem;
   font-weight: 400;
-  line-height: 2.3rem;
+  line-height: 2.8rem;
 }
 
 .halfblockflexv {
   flex-flow: column;
   justify-content: center;
   align-items: center;
+  margin-right: 71px;
   display: flex;
 }
 
@@ -344,7 +350,15 @@
 
 .texthalf {
   width: 90%;
-  max-width: 25rem;
+  max-width: 30rem;
+}
+
+.texthalf.right {
+  text-align: right;
+  flex-flow: column;
+  justify-content: center;
+  align-items: flex-end;
+  display: flex;
 }
 
 .proximatext {
@@ -416,6 +430,9 @@
 }
 
 .italic-text {
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
   font-size: 2rem;
   line-height: 2.1rem;
 }
@@ -430,6 +447,45 @@
   margin-right: auto;
   display: flex;
   position: relative;
+}
+
+.bottomblock {
+  margin-bottom: 193px;
+}
+
+.hyperxbutton {
+  font-family: var(--font-family-3);
+  letter-spacing: 1px;
+  cursor: pointer;
+  background-color: #000408;
+  padding: 20px 71px;
+}
+
+.hyperxbutton:hover {
+  background-color: var(--_headlinerbmedium---hyperxred);
+  pointer-events: auto;
+}
+
+._00buttonwrap {
+  margin-top: 29px;
+}
+
+.absolutewrap {
+  max-width: 500px;
+  position: absolute;
+  inset: auto auto -3% -20%;
+}
+
+.absolutewrap.right {
+  inset: auto -18% 0% auto;
+}
+
+.instantoverlay {
+  max-width: 500px;
+}
+
+.instantoverlay.small {
+  max-width: 450px;
 }
 
 @media screen and (max-width: 991px) {
