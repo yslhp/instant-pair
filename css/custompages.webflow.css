@@ -286,7 +286,7 @@
 .instantheadercopy {
   font-family: var(--_headlinerbmedium---proximafamily);
   text-align: center;
-  max-width: 950px;
+  max-width: none;
   font-size: 1rem;
   font-weight: 600;
 }
@@ -308,8 +308,7 @@
   justify-content: center;
   align-items: center;
   max-width: none;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 68px auto;
   display: flex;
   position: relative;
 }
@@ -396,6 +395,10 @@
   line-height: 2.1rem;
 }
 
+.proximatext.centered {
+  text-align: center;
+}
+
 ._4-grid {
   margin-bottom: 67px;
 }
@@ -424,8 +427,11 @@
   justify-content: center;
   align-items: center;
   width: 100%;
-  min-height: 100px;
-  max-height: 100px;
+  min-height: 150px;
+  max-height: 150px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 5px 30px;
   display: flex;
 }
 
@@ -546,6 +552,23 @@
   position: relative;
 }
 
+.text-block-2 {
+  text-align: center;
+  width: 100%;
+}
+
+.titletextcentered {
+  margin: 60px auto;
+  padding: 23px;
+}
+
+.maintitle {
+  font-family: var(--font-family-3);
+  text-align: center;
+  font-size: 3rem;
+  line-height: 105%;
+}
+
 @media screen and (max-width: 991px) {
   .instanh1 {
     font-size: 4rem;
@@ -554,6 +577,11 @@
 
   .divstretch {
     margin-right: 2rem;
+  }
+
+  .divstretch.right {
+    margin-left: 0;
+    margin-right: 0;
   }
 
   .instanth2 {
@@ -610,6 +638,10 @@
     margin-right: 0;
   }
 
+  .divstretch.right {
+    margin-left: 0;
+  }
+
   .halfblockflexv {
     margin-right: 0;
   }
@@ -640,6 +672,14 @@
 
   .divstretch {
     width: 95%;
+  }
+
+  .divstretch.right {
+    margin-left: 0;
+  }
+
+  .texthalf {
+    margin-left: 0%;
   }
 
   .grid {
