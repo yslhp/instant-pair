@@ -336,8 +336,8 @@
 .subcopyinstant {
   justify-content: center;
   align-items: center;
-  width: 80%;
-  max-width: none;
+  text-align: center;
+  max-width: 950;
   display: flex;
 }
 
@@ -551,7 +551,7 @@
 .proxima1-8center {
   font-family: var(--_headlinerbmedium---proximafamily);
   text-align: center;
-  max-width: 1000px;
+  max-width: 950px;
   margin-left: auto;
   margin-right: auto;
   font-size: 1.8rem;
