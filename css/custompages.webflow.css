@@ -231,13 +231,13 @@
 }
 
 :root {
+  --proxima: "Proxima Nova Alt", Arial, sans-serif;
   --font-family-3: "Rbno 31", Impact, sans-serif;
   --_headlinerbmedium---proximafamily: "Proxima Nova Alt", Arial, sans-serif;
   --_headlinerbmedium---black: #000;
   --_headlinerbmedium---hyperxred: #c8202f;
   --ltgrey: #f5f6f6;
   --color: #0000006e;
-  --proxima: "Proxima Nova Alt", Arial, sans-serif;
   --_headlinerbmedium---white: white;
   --_headlinerbmedium---rbh1: "Rbno 31 Book", Impact, sans-serif;
   --font-family: "Rbno 31 Book", Impact, sans-serif;
@@ -254,6 +254,12 @@
   display: grid;
 }
 
+.w-backgroundvideo-backgroundvideoplaypausebutton:focus-visible {
+  outline-offset: 2px;
+  border-radius: 50%;
+  outline: 2px solid #3b79c3;
+}
+
 .instantpair1 {
   justify-content: center;
   align-items: center;
@@ -267,6 +273,7 @@
 }
 
 .intantpair2 {
+  text-align: center;
   flex-flow: column;
   justify-content: center;
   align-items: center;
@@ -334,10 +341,15 @@
 }
 
 .subcopyinstant {
+  font-family: var(--proxima);
+  text-align: center;
   justify-content: center;
   align-items: center;
-  text-align: center;
-  max-width: 950;
+  width: 80%;
+  max-width: 950px;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 2.1rem;
   display: flex;
 }
 
@@ -355,7 +367,7 @@
 .halfblockflexv {
   flex-flow: column;
   justify-content: center;
-  align-items: center;
+  align-items: flex-end;
   margin-right: 0;
   display: flex;
 }
@@ -373,7 +385,7 @@
   text-align: right;
   flex-flow: column;
   justify-content: center;
-  align-items: center;
+  align-items: flex-end;
   padding-left: 6%;
   padding-right: 6%;
   display: flex;
@@ -537,6 +549,8 @@
 }
 
 .titletextcentered {
+  font-family: var(--_headlinerbmedium---proximafamily);
+  text-align: center;
   margin: 0 auto;
   padding: 23px;
 }
@@ -551,10 +565,10 @@
 .proxima1-8center {
   font-family: var(--_headlinerbmedium---proximafamily);
   text-align: center;
-  max-width: 950px;
+  max-width: 1000px;
   margin-left: auto;
   margin-right: auto;
-  font-size: 1.8rem;
+  font-size: 2rem;
   line-height: 2.1rem;
 }
 
@@ -742,6 +756,38 @@
   padding-left: 6%;
 }
 
+.boldproxima {
+  text-align: center;
+}
+
+.fullframe {
+  font-family: var(--proxima);
+  height: 100svh;
+  position: relative;
+}
+
+.gridfull {
+  grid-template-rows: auto;
+  width: 100%;
+  height: 100%;
+  max-height: 100svh;
+}
+
+.instantright {
+  font-family: var(--font-family-3);
+  flex: 1;
+  width: 100%;
+  max-width: 25rem;
+  margin-bottom: 33px;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 2.8rem;
+}
+
+.italic-text {
+  text-align: center;
+}
+
 @media screen and (max-width: 991px) {
   .instanh1 {
     font-size: 4rem;
@@ -794,6 +840,11 @@
   .texthalfomen {
     max-width: none;
     margin-right: 0%;
+  }
+
+  .instantright {
+    font-size: 3.5rem;
+    line-height: 3.1rem;
   }
 }
 
